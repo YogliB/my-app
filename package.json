@@ -37,5 +37,9 @@
     "root": true
   },
   "main": "node_modules/expo/AppEntry.js",
-  "private": true
+  "private": true,
+  "volta": {
+    "node": "18.19.0",
+    "bun": "1.0.25"
+  }
 }
